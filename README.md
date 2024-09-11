@@ -22,7 +22,7 @@ Before running the setup script, ensure the following requirements are met:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/hadoop-setup-script.git
+    git clone https://github.com/thewrongcode1/BigData.git
     cd hadoop-setup-script
     ```
 

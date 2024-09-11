@@ -43,4 +43,5 @@ Before running the setup script, ensure the following requirements are met:
 Run the setup script as follows:
 
 ```bash
-python setup_hadoop.py
+python setup_hadoop.py path-to-hadoop
+```
